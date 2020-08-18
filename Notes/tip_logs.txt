@@ -1,0 +1,8 @@
+List of all tip of logs:
+
+USRLOG -> Logs related with user.
+AUTLOG -> Logs related with author.
+BOKLOG -> Logs related with book.
+LOALOG -> Logs related with book loan.
+GNRLOG -> Logs related with genre.
+INLOG  -> Logs related with the insert_log procedure. 
